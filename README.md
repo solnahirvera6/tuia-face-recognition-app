@@ -193,7 +193,7 @@ La detección sobre la imagen completa se guarda por hilo, de modo que `predict`
 
 **Modelo elegido:** InsightFace `buffalo_l` (ArcFace `w600k_r50.onnx` para reconocimiento y SCRFD `det_10g.onnx` para detección), sin fine-tuning.
 
-**Descarga (link público de solo lectura):** <LINK_PUBLICO_MODELOS> — colocar `w600k_r50.onnx` y `det_10g.onnx` en `models/`.
+**Descarga (link público de solo lectura):** [<LINK_PUBLICO_MODELOS>](https://drive.google.com/drive/folders/1aWPqy9jLYinceyHFwxmQ06VfVuXXOT4n?usp=sharing) — colocar `w600k_r50.onnx` y `det_10g.onnx` en `models/`.
 
 | Item | Detalle |
 |---|---|
